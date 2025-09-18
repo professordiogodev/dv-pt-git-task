@@ -1,5 +1,7 @@
 # Git Task!
 
+This is Diogo Feature #1
+
 ## All Collaborators must Do:
 
 1. As a developer, I want to clone a repository from GitHub so that I can start working on the project locally.
